@@ -1,4 +1,5 @@
-##IBM Verse Tone Analyzer Sample
+## IBM Verse Tone Analyzer Sample
+
 This sample demonstrations how to integrate the [Watson Tone Analyzer](https://www.ibm.com/watson/developercloud/tone-analyzer.html) with IBM Verse.
 
 1. Set up the Tone Analyzer Node.js starter application
